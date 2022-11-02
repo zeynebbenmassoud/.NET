@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CDEC23F3-516F-4351-B1B4-A2F4F620EE79}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsForm</RootNamespace>
+    <AssemblyName>WindowsForm</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutDeCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutDeCommande.Designer.cs">
+      <DependentUpon>AjoutDeCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjouterLgnCmd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjouterLgnCmd.Designer.cs">
+      <DependentUpon>FormAjouterLgnCmd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjouterNvProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjouterNvProduit.Designer.cs">
+      <DependentUpon>FormAjouterNvProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRechercheProduit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRechercheProduit.Designer.cs">
+      <DependentUpon>FormRechercheProduit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RechercheClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RechercheClient.Designer.cs">
+      <DependentUpon>RechercheClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterNvClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterNvClient.Designer.cs">
+      <DependentUpon>AjouterNvClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjoutDeCommande.resx">
+      <DependentUpon>AjoutDeCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjouterLgnCmd.resx">
+      <DependentUpon>FormAjouterLgnCmd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjouterNvProduit.resx">
+      <DependentUpon>FormAjouterNvProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRechercheProduit.resx">
+      <DependentUpon>FormRechercheProduit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RechercheClient.resx">
+      <DependentUpon>RechercheClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterNvClient.resx">
+      <DependentUpon>AjouterNvClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BAL\BAL.csproj">
+      <Project>{061414ca-fc66-4c21-9514-1b0a43fca4bb}</Project>
+      <Name>BAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{963b96fc-f460-4126-bfbd-5e44731a7239}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{441fa194-0580-4de8-bc19-9e871dc8071d}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataEntityTier\DataEntityTier.csproj">
+      <Project>{d9fbca02-081a-4038-bb1f-d89b57ccf37f}</Project>
+      <Name>DataEntityTier</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

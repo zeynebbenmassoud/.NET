@@ -1,0 +1,10 @@
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataEntityTier\bin\Debug\DataEntityTier.dll.config
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataEntityTier\bin\Debug\DataEntityTier.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataEntityTier\bin\Debug\DataEntityTier.pdb
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataEntityTier\bin\Debug\DataAccess.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataEntityTier\bin\Debug\DataAccess.pdb
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataEntityTier\obj\Debug\DataEntityTier.csprojAssemblyReference.cache
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataEntityTier\obj\Debug\DataEntityTier.csproj.CoreCompileInputs.cache
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataEntityTier\obj\Debug\DataEntityTier.csproj.CopyComplete
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataEntityTier\obj\Debug\DataEntityTier.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataEntityTier\obj\Debug\DataEntityTier.pdb
