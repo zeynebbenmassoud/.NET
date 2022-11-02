@@ -1,0 +1,6 @@
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache

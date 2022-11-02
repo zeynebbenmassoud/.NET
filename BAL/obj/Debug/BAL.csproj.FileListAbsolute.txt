@@ -1,0 +1,14 @@
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\bin\Debug\BAL.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\bin\Debug\BAL.pdb
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\bin\Debug\DAL.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\bin\Debug\DAL.pdb
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\obj\Debug\BAL.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\obj\Debug\BAL.pdb
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\bin\Debug\DataAccess.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\bin\Debug\DataEntityTier.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\bin\Debug\DataAccess.pdb
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\bin\Debug\DataEntityTier.pdb
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\BAL\bin\Debug\DataEntityTier.dll.config

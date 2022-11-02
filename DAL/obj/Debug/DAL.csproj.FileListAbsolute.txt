@@ -1,0 +1,6 @@
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DAL\bin\Debug\DAL.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DAL\bin\Debug\DAL.pdb
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DAL\obj\Debug\DAL.dll
+C:\Users\zeyneb ben massoud\source\repos\Project_3_tiers_Final\DAL\obj\Debug\DAL.pdb
